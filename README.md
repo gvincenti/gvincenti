@@ -23,7 +23,7 @@ Mi pasión por la resolución de problemas, demostrada en desafíos de "capture 
 
 ### **Habilidades Técnicas**
 
-| **Sistemas y Operaciones** | **Desarrollo** |
+| **Sistemas** | **Desarrollo** |
 | :--- | :--- |
 | <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat"> <br> <img src="https://img.shields.io/badge/Parrot%20Security-222222?style=for-the-badge&logo=parrot-security&logoColor=15E0ED" alt="Parrot OS"> <br> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <br> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> |
 
