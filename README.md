@@ -1,4 +1,4 @@
-# ✨ ¡Mi Hoja de Vida! ✨
+# ¡Mi Hoja de Vida! 📋
 
 ---
 
