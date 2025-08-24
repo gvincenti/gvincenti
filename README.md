@@ -65,4 +65,35 @@ Mi pasión por la resolución de problemas, demostrada en desafíos de "capture 
 * **Técnico Electrónico** | **Escuela de Educación Técnica N° 6 Isidro Casanova**
     * 🗓️ 2006 - 2008
  
+ ### **Cursos Destacados**
+
+- **Linux Shell Scripting**  
+  _Comisión:_ 55699  
+  _Estado:_ Finalizado el **07/01/2022**  
+  _Progreso:_ 20%  
+  ¡Sigue así! Cada examen te hace avanzar.
+
+- **Linux SysAdmin**  
+  _Comisión:_ 48412  
+  _Estado:_ Finalizado el **23/12/2021**  
+  _Progreso:_ 67%  
+  ¡Sigue así! Cada examen te hace avanzar.
+
+- **Seguridad en Linux: Server Hardening**  
+  _Comisión:_ 49206  
+  _Estado:_ Finalizado el **18/12/2021**  
+  _Progreso:_ 17%  
+  ¡Sigue así! Cada examen te hace avanzar.
+
+- **Redes Linux**  
+  _Comisión:_ 52640  
+  _Estado:_ Finalizado el **04/12/2021**  
+  _Progreso:_ 80%  
+  Te queda un examen para lograr tu certificado.
+
+- **Ethical Hacking**  
+  _Comisión:_ 45879  
+  _Estado:_ Finalizado el **07/11/2020**  
+  _Progreso:_ 100%  
+  ¡Ya está listo tu certificado de aprobación!
 ---
