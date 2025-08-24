@@ -1,4 +1,8 @@
+<div align="center">
+
 # ¡Mi Hoja de Vida! 📋
+
+</div>
 
 ---
 
@@ -29,7 +33,11 @@ Mi pasión por la resolución de problemas, demostrada en desafíos de "capture 
 
 ---
 
-### **💼 Experiencia Laboral**
+<div align="center">
+
+# **💼 Experiencia Laboral**
+
+</div>
 
 ---
 
@@ -56,9 +64,13 @@ Mi pasión por la resolución de problemas, demostrada en desafíos de "capture 
 
 ---
 
-### **🎓 Educación**
+<div align="center">
 
-* **Tecnicatura Superior en Seguridad Informática** | **Instituto Técnico Superior Teclab**
+# **🎓 Educación**
+
+</div>
+
+* **Técnico Superior en Seguridad Informática** | **Instituto Técnico Superior Teclab**
     * 🗓️ 2023 - 2024
 * **Técnico Superior en Programación** | **Instituto Superior de Formación Docente y Técnica  N° 46 Ramos Mejia**
     * 🗓️ 2016 - 2018
