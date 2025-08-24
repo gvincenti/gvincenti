@@ -33,7 +33,7 @@ Mi pasión por la resolución de problemas, demostrada en desafíos de "capture 
 
 ---
 
-### **Supervisor de Data Center** | Correo Argentino
+### **Supervisor de Operaciones TI** | Correo Argentino
 * 🗓️ 2025 - Presente
 * **Logros y Responsabilidades Clave:**
     * ✅ Supervisión y gestión de un equipo de operaciones en un centro de datos.
@@ -41,7 +41,7 @@ Mi pasión por la resolución de problemas, demostrada en desafíos de "capture 
     * ✅ Implementación y mantenimiento de contenedores con **Docker**.
     * ✅ Garantizar la operatividad y estabilidad de la infraestructura de TICs.
 
-### **Analista de TICs** | Correo Argentino
+### **Analista de Operaciones TI** | Correo Argentino
 * 🗓️ 2019 - 2025
 * **Logros y Responsabilidades Clave:**
     * ✅ Análisis y resolución de incidencias en sistemas informáticos.
