@@ -63,7 +63,7 @@ Mi pasión por la resolución de problemas, demostrada en desafíos de "capture 
 
 </div>
 
-* **Técnico Superior en Seguridad Informática** | **Instituto Técnico Superior Teclab**
+* **Técnico Superior en Seguridad Informática** | **Instituto Técnico Superior Teclab E-learning**
     * 🗓️ 2023 - 2024
 * **Técnico Superior en Programación** | **Instituto Superior de Formación Docente y Técnica  N° 46 Ramos Mejia**
     * 🗓️ 2016 - 2018
