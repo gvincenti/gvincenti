@@ -63,7 +63,7 @@ Profesional orientado a DevSecOps, con sólida experiencia en administración de
 
 ### **Proyectos / CTFs**
 
-- Participación activa en plataformas de CTF como Hack The Box.
+- Participación activa en Hack The Box.
 - Repositorios de scripts y automatizaciones en GitHub.
 
 ---
