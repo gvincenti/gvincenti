@@ -60,6 +60,14 @@ Profesional orientado a DevSecOps, con sólida experiencia en administración de
 - **Redes Linux** (2021)
 - **Ethical Hacking** (2020)
 
+#### **Cursos Codo a Codo 4.0**
+- **JS-BACK END** (2024)
+- **JS-FRONT END** (2024)
+- **Testing QA** (2024)
+
+#### **Cursos Yo Programo CESSI**
+- **JAVA Android Studio** (2016)
+  
 ---
 
 ### **Proyectos / CTFs**
