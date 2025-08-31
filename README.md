@@ -40,7 +40,7 @@ Profesional orientado a DevSecOps, con sólida experiencia en administración de
 - Soporte técnico especializado.
 - Desarrollo de soluciones internas con Node.js.
 
-**Operativo/a de Clasificación y Expedición** | Correo Argentino  
+**Operario de Clasificación y Expedición** | Correo Argentino  
 *2012 - 2013*  
 - Gestión logística de grandes cuentas (ARBA, SUBE, Telered).
 - Coordinación de envíos y ruteos.
