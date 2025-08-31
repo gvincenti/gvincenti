@@ -19,7 +19,7 @@ Profesional orientado a DevSecOps, con sólida experiencia en administración de
 
 ### **Habilidades Técnicas**
 
-| **Sistemas** | **Desarrollo** | **Bases de Datos** |
+| **SYSADMIN** | **DEV** | **DBA** |
 | :--- | :--- | :--- |
 | ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) <br/> ![Parrot OS](https://img.shields.io/badge/Parrot%20Security-222222?style=for-the-badge&logo=parrot-security&logoColor=15E0ED) <br/> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) <br/> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br/> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) <br/> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <br/> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
 
