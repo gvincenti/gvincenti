@@ -70,7 +70,6 @@ Profesional orientado a DevSecOps, con sólida experiencia en administración de
 
 #### **Cursos CFP 403 y 406**
 - **Reparación de PC y Redes** (2015)
-    
 - **Desarrollo web** (2014)
 
 ---
