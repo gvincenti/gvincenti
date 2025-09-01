@@ -64,6 +64,7 @@ Profesional orientado a DevSecOps, con sólida experiencia en administración de
 - **JS-BACK END** (2024)
 - **JS-FRONT END** (2024)
 - **Testing QA** (2024)
+- **JAVA** (2019)
 
 #### **Cursos Yo Programo CESSI**
 - **JAVA Android Studio** (2016)
