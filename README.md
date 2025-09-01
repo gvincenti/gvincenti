@@ -67,7 +67,12 @@ Profesional orientado a DevSecOps, con sólida experiencia en administración de
 
 #### **Cursos Yo Programo CESSI**
 - **JAVA Android Studio** (2016)
-  
+
+#### **Cursos CFP 403 y 406**
+- **Reparación de PC y Redes** (2015)
+    
+- **Desarrollo web** (2014)
+
 ---
 
 ### **Proyectos / CTFs**
