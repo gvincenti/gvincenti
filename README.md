@@ -81,7 +81,3 @@ Experiencia en **infraestructura crítica**, administración de **sistemas Linux
 - Desarrollo Web (2014)  
 
 ---
-
-### **Labs y Plataformas**
-
-- Hack The Box: Perfil público [aquí](https://app.hackthebox.com/profile/767761)
