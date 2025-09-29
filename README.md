@@ -15,10 +15,6 @@ Profesional en **seguridad informática** con base en electrónica, programació
 Actualmente orientado a **ciberseguridad ofensiva** (pentesting, auditoría de vulnerabilidades) y en proceso de formación avanzada en **criptografía y ciberdefensa**.  
 Experiencia en **infraestructura crítica**, administración de **sistemas Linux**, virtualización y contenedores.
 
----
-
-### **Habilidades Técnicas**
-
 | **Ciberseguridad** | **SysAdmin** | **Programación** | **Bases de Datos** | **Herramientas** |
 |--------------------|--------------|------------------|---------------------|---------------------|
 | Ethical Hacking <br/> Linux Hardening <br/> SIEM básico | Parrot OS <br/> Red Hat <br/> Docker <br/> Redes Linux | Python <br/> JavaScript <br/> Node.js <br/> Java | MySQL <br/> PostgreSQL <br/> Firebase | Thruk <br/> Zabbix <br/> Wazuh <br/> Veeam|
