@@ -84,41 +84,4 @@ Experiencia en **infraestructura crítica**, administración de **sistemas Linux
 
 ### **Labs y Plataformas**
 
-- Hack The Box: Perfil público [aquí](https://app.hackthebox.com/profile/767761)  
-
-- **Especialización en Criptografía y Seguridad Teleinformática** | Facultad de Ingeniería del Ejército Argentino (UNDEF) | Inicio previsto 2026  
-  *(Primer tramo de la Maestría en Ciberdefensa)*
-  
-- **Técnico Superior en Seguridad Informática** | Teclab E-learning | 2023 - 2024
-- **Técnico Superior en Programación** | ISFDyT N° 46 Ramos Mejía | 2016 - 2018
-- **Técnico Electrónico** | EET N° 6 Isidro Casanova | 2006 - 2008
-
-#### **Cursos Educación IT**
-- **Linux Shell Scripting** (2022)
-- **Linux SysAdmin** (2021)
-- **Seguridad en Linux: Server Hardening** (2021)
-- **Redes Linux** (2021)
-- **Ethical Hacking** (2020)
-
-#### **Cursos Codo a Codo 4.0**
-- **JS-BACK END** (2024)
-- **JS-FRONT END** (2024)
-- **Testing QA** (2024)
-- **JAVA** (2019)
-
-#### **Cursos Yo Programo CESSI**
-- **JAVA Android Studio** (2016)
-
-#### **Cursos CFP 403 y 406**
-- **Reparación de PC y Redes** (2015)
-- **Desarrollo web** (2014)
-
----
-
-### **Proyectos / CTFs**
-
-- Participación activa en Hack The Box.
-- Repositorios de scripts y automatizaciones en GitHub.
-
----
-
+- Hack The Box: Perfil público [aquí](https://app.hackthebox.com/profile/767761)
