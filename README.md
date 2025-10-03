@@ -56,6 +56,9 @@ Experiencia en **infraestructura crítica**, administración de **sistemas Linux
 
 ### **Cursos y Capacitación**
 
+#### **UNDEF**
+- Taller de Ciberseguridad y Ciberdefensa: Fundamentos y Aplicaciones Criptográficas (2025)
+
 #### **Educación IT**  
 - Linux Shell Scripting (2022)  
 - Linux SysAdmin (2021)  
