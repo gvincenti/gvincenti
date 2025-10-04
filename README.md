@@ -66,7 +66,7 @@ Experiencia en **infraestructura crítica**, administración de **sistemas Linux
 - Redes Linux (2021)  
 - Ethical Hacking (2020)  
 
-#### **Codo a Codo 4.0**  
+#### **Dirección General de Habilidades para el Futuro - Ministerio de Educacion de la Ciudad de Buenos Aires**  
 - JS Back-End (2024)  
 - JS Front-End (2024)  
 - Testing QA (2024)  
